@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcodedeck=self.webpackChunkcodedeck||[]).push([[790],{3790:function(e,n,c){c.r(n);c(2791);var s=c(184);n.default=function(){return(0,s.jsx)("div",{children:(0,s.jsx)("center",{children:(0,s.jsx)("img",{src:"https://freefrontend.com/assets/img/html-funny-404-pages/CodePen-404-Page.gif",alt:"Page404"})})})}}}]);
+//# sourceMappingURL=790.ed6a5590.chunk.js.map
